@@ -1,0 +1,16 @@
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\bin\Debug\BusTicketingSystem.exe.config
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\bin\Debug\BusTicketingSystem.exe
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\bin\Debug\BusTicketingSystem.pdb
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.AddBuses.resources
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.AdminDashboard.resources
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.createaccount.resources
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.Main.resources
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.Properties.Resources.resources
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.UserDashBoard.resources
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.UserLogin.resources
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.csproj.GenerateResource.cache
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.exe
+C:\Users\imdan\source\repos\BusTicketingSystem\BusTicketingSystem\obj\Debug\BusTicketingSystem.pdb
